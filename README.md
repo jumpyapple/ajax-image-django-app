@@ -1,5 +1,14 @@
 # ajax-image-django-app
 
+## How to run
+
+```console
+pip install -r requirements.txt
+python img_app/__init__.py
+```
+
+Then visit http://127.0.0.1:8080/, take a picture. The image should be saved into `uploads/picture.png`
+
 ## Specification
 
 Make one of these work
